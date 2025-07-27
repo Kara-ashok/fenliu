@@ -6,7 +6,7 @@
 
 #去贴吧更新
 DOMAIN-SUFFIX,sdk.z74d.cn
-IP-CIDR,103.36.600.41/32,no-resolve
+IP-CIDR,103.36.60.41/32,no-resolve
 IP-CIDR,103.217.202.170/32,no-resolve
 #小米广告
 DOMAIN-SUFFIX,ad.mi.com
