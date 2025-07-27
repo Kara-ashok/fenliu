@@ -1,10 +1,81 @@
-# NAME: DNS
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:17:41
-# DOMAIN: 88
-# IP-CIDR: 22
-# TOTAL: 110
-IP-CIDR,1.1.1.1/32,no-resolve
-IP-CIDR,8.8.4.4/32,no-resolve
-IP-CIDR,8.8.8.8/32,no-resolve
+# NAME: Xiaomi-Ads
+# AUTHOR: Collected from user input
+# CONVERTED: 2025-07-27
+# DOMAIN: 65
+# TOTAL: 65
+
+#去贴吧更新
+DOMAIN-SUFFIX,sdk.z74d.cn
+IP-CIDR,103.36.600.41/32,no-resolve
+IP-CIDR,103.217.202.170/32,no-resolve
+#小米广告
+DOMAIN-SUFFIX,ad.mi.com
+DOMAIN-SUFFIX,ad.xiaomi.com
+DOMAIN-SUFFIX,ad1.xiaomi.com
+DOMAIN-SUFFIX,app.chat.xiaomi.net
+DOMAIN-SUFFIX,api.ad.xiaomi.com
+DOMAIN-SUFFIX,ad.doubleclick.net
+DOMAIN-SUFFIX,bss.pandora.xiaomi.com
+DOMAIN-SUFFIX,b.netcheck.gallery.pandora.xiaomi.com
+DOMAIN-SUFFIX,broker.mqtt.pandora.xiaomi.com
+DOMAIN-SUFFIX,config.kuyun.com
+DOMAIN-SUFFIX,dvb.pandora.xiaomi.com
+DOMAIN-SUFFIX,de.pandora.xiaomi.com
+DOMAIN-SUFFIX,data.mistat.xiaomi.com
+DOMAIN-SUFFIX,f1.market.xiaomi.com
+DOMAIN-SUFFIX,f2.market.xiaomi.com
+DOMAIN-SUFFIX,f3.market.xiaomi.com
+DOMAIN-SUFFIX,f4.market.xiaomi.com
+DOMAIN-SUFFIX,f5.market.xiaomi.com
+DOMAIN-SUFFIX,f1.market.mi-img.com
+DOMAIN-SUFFIX,f2.market.mi-img.com
+DOMAIN-SUFFIX,f3.market.mi-img.com
+DOMAIN-SUFFIX,f4.market.mi-img.com
+DOMAIN-SUFFIX,f5.market.mi-img.com
+DOMAIN-SUFFIX,file.xmpush.xiaomi.com
+DOMAIN-SUFFIX,gvod.aiseejapp.atianqi.com
+DOMAIN-SUFFIX,g.dtv.cn.miaozhan.com
+DOMAIN-SUFFIX,gallery.pandora.xiaomi.com
+DOMAIN-SUFFIX,jellyfish.pandora.xiaomi.com
+DOMAIN-SUFFIX,logonext.tv.kuyun.com
+DOMAIN-SUFFIX,mishop.pandora.xiaomi.com
+DOMAIN-SUFFIX,milink.pandora.xiaomi.com
+DOMAIN-SUFFIX,misc.pandora.xiaomi.com
+DOMAIN-SUFFIX,mitv.tracking.miui.com
+DOMAIN-SUFFIX,new.api.ad.xiaomi.com
+DOMAIN-SUFFIX,o2o.api.xiaomi.com
+DOMAIN-SUFFIX,o2o.api.xiaomi.com.lan
+DOMAIN-SUFFIX,package.box.xiaomi.com
+DOMAIN-SUFFIX,redirect.pandora.xiaomi.com
+DOMAIN-SUFFIX,register.xmpush.xiaomi.com
+DOMAIN-SUFFIX,resolver.msg.xiaomi.net
+DOMAIN-SUFFIX,r.browser.miui.com
+DOMAIN-SUFFIX,stat.pandora.xiaomi.com
+DOMAIN-SUFFIX,sdkconfg.ad.xiaomi.com
+DOMAIN-SUFFIX,staging.ai.api.xiaomi.com
+DOMAIN-SUFFIX,tracking.miui.com
+DOMAIN-SUFFIX,tv.weixin.pandora.xiaomi.com
+DOMAIN-SUFFIX,tvmanager.pandora.xiaomi.com
+DOMAIN-SUFFIX,tvmgr.pandora.xiaomi.com
+DOMAIN-SUFFIX,tat.pandora.xiaomi.com
+DOMAIN-SUFFIX,t7z.cupid.ptqy.gitv.tv
+DOMAIN-SUFFIX,upgrade.mishop.pandora.xiaomi.com
+DOMAIN-SUFFIX,analytics.ff.avast.com
+DOMAIN-SUFFIX,ipm-provider.ff.avast.com
+DOMAIN-SUFFIX,license.piriform.com
+DOMAIN-SUFFIX,www.ccleaner.com
+DOMAIN-SUFFIX,shepherd.ff.avast.concc.avast.com
+DOMAIN-SUFFIX,ncc.avast.com.edgesuite.net
+DOMAIN-SUFFIX,ip-info.ff.avast.com
+#PikPak
+DOMAIN-SUFFIX,access.mypikpak.com
+DOMAIN-SUFFIX,access.mypikpak.net
+DOMAIN-SUFFIX,access.pikpak.me
+DOMAIN-SUFFIX,access.pikpakdrive.com
+#b站去广告
+DOMAIN-SUFFIX,cm.bilibili.com
+#t去更新
+DOMAIN-SUFFIX,rezvorck.github.io
+DOMAIN-SUFFIX,meni19.github.io
+#spo去更新
+DOMAIN-SUFFIX,update.9mod.com
