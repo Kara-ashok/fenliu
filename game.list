@@ -2,5 +2,11 @@
 #手游游戏王
 DOMAIN-SUFFIX,mo.konami.net
 DOMAIN-SUFFIX,applilink.jp
+#warframe
+DOMAIN,origin.warframe.com
+DOMAIN,api.warframe.com
+DOMAIN,arbiter.warframe.com
+DOMAIN,content.warframe.com
+
 
 
