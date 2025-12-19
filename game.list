@@ -7,6 +7,8 @@ DOMAIN,origin.warframe.com
 DOMAIN,api.warframe.com
 DOMAIN,arbiter.warframe.com
 DOMAIN,content.warframe.com
+IP-CIDR,172.232.25.131/32
+
 
 
 
